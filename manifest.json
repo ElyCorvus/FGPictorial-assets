@@ -1,0 +1,47 @@
+{
+  "releaseId": "v20260830-2",
+  "generatedAt": "2026-08-30T10:47:46.934Z",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets",
+  "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets",
+  "tables": {
+    "main": {
+      "file": "data/main.enc",
+      "hash": "b5a21e1b12dbf7c2da869c7f6dd1e6099362aa1e",
+      "count": 4
+    },
+    "sub": {
+      "file": "data/sub.enc",
+      "hash": "a6e853640a05e985dc4da6fe3959250a0d293712",
+      "count": 97
+    },
+    "item": {
+      "file": "data/item.enc",
+      "hash": "a18425310a0957ca3ca668b81ade60e66c133a48",
+      "count": 1116
+    },
+    "recipe": {
+      "file": "data/recipe.enc",
+      "hash": "a54af9971197ea00e5a92ebdb4a6b753f36f677c",
+      "count": 632
+    },
+    "daily": {
+      "file": "data/daily.enc",
+      "hash": "46932dff850c32be95748cb98dd2d8d787a31178",
+      "count": 89
+    }
+  },
+  "banners": [
+    "banner/banner01.png",
+    "banner/banner02.png",
+    "banner/banner03.png",
+    "banner/banner04.png",
+    "banner/banner05.png",
+    "banner/banner06.png",
+    "banner/banner07.png",
+    "banner/banner08.png",
+    "banner/banner09.png",
+    "banner/banner10.png",
+    "banner/banner11.png",
+    "banner/banner12.png"
+  ]
+}
