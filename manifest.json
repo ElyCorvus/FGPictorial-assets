@@ -1,8 +1,9 @@
 {
-  "releaseId": "v20260830-2",
-  "generatedAt": "2026-08-30T10:47:46.934Z",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets",
-  "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets",
+  "releaseId": "v20260830-3",
+  "generatedAt": "2026-08-30T11:24:25.050Z",
+  "keyId": "b38c96a430af",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
+  "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
       "file": "data/main.enc",
