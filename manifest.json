@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260902-11",
-  "generatedAt": "2026-09-02T14:47:28.022Z",
+  "releaseId": "v20260902-12",
+  "generatedAt": "2026-09-02T15:54:29.756Z",
   "keyId": "b38c96a430af",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260902-12",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
