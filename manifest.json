@@ -1,6 +1,6 @@
 {
-  "releaseId": "v20260902-7",
-  "generatedAt": "2026-09-02T13:48:47.412Z",
+  "releaseId": "v20260902-8",
+  "generatedAt": "2026-09-02T13:52:07.766Z",
   "keyId": "b38c96a430af",
   "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
@@ -34,6 +34,11 @@
       "file": "data/activity.enc",
       "hash": "e8b7f70c1bd76a6187c72c21da82e0555ac6a9c8",
       "count": 13
+    },
+    "announcement": {
+      "file": "data/announcement.enc",
+      "hash": "2690cd17a4cad5300a67fc4eeb1377df92c9fe6b",
+      "count": 3
     }
   },
   "banners": [
