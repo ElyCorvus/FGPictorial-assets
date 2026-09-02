@@ -1,6 +1,6 @@
 {
-  "releaseId": "v20260902-6",
-  "generatedAt": "2026-09-02T09:01:20.043Z",
+  "releaseId": "v20260902-7",
+  "generatedAt": "2026-09-02T13:48:47.412Z",
   "keyId": "b38c96a430af",
   "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
@@ -17,7 +17,7 @@
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "21263cfd363d965e921fe3386aa2343aa71e2adc",
+      "hash": "86ab2a4acfc97f0b6401e965a1755663751ecb71",
       "count": 1116
     },
     "recipe": {
@@ -27,13 +27,13 @@
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "18756e70a2034b51e32ceb0fa4bdf7281d25e7b8",
-      "count": 160
+      "hash": "b48fc104d7ee8b73a98372d781e6e22f6211b130",
+      "count": 169
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "037733b68300c72c2a10569cf5fcffe82c7c9212",
-      "count": 9
+      "hash": "e8b7f70c1bd76a6187c72c21da82e0555ac6a9c8",
+      "count": 13
     }
   },
   "banners": [
