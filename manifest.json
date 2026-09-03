@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260903",
-  "generatedAt": "2026-09-03T03:30:00.835Z",
+  "releaseId": "v20260903-2",
+  "generatedAt": "2026-09-03T08:58:20.086Z",
   "keyId": "b38c96a430af",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260903",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260903-2",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -17,7 +17,7 @@
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "86ab2a4acfc97f0b6401e965a1755663751ecb71",
+      "hash": "92a036f3df5a78f9006c592444bfce493867928a",
       "count": 1116
     },
     "recipe": {
@@ -32,8 +32,8 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "4a437189e72639a2a0ead46f465f0c7d4073a8a4",
-      "count": 13
+      "hash": "7b551fdbdc5da4944400271b99b1e328e97dd6bc",
+      "count": 14
     },
     "announcement": {
       "file": "data/announcement.enc",
