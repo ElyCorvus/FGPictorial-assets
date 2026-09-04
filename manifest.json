@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260904",
-  "generatedAt": "2026-09-03T19:23:56.370Z",
+  "releaseId": "v20260904-2",
+  "generatedAt": "2026-09-04T07:51:15.394Z",
   "keyId": "b38c96a430af",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260904",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260904-2",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -27,8 +27,8 @@
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "1366f717d6de9665cbc7a1fa7a92738ef451e615",
-      "count": 230
+      "hash": "079aa7cb6ab4b7356b4bd17d99ab16005f59a638",
+      "count": 250
     },
     "activity": {
       "file": "data/activity.enc",
@@ -42,17 +42,17 @@
     }
   },
   "banners": [
-    "banner/banner01.png",
-    "banner/banner02.png",
-    "banner/banner03.png",
-    "banner/banner04.png",
-    "banner/banner05.png",
-    "banner/banner06.png",
-    "banner/banner07.png",
-    "banner/banner08.png",
-    "banner/banner09.png",
-    "banner/banner10.png",
-    "banner/banner11.png",
-    "banner/banner12.png"
+    "banner/04e3e6f43932.png",
+    "banner/1d78ffc5b339.png",
+    "banner/5b0cfd4cae63.png",
+    "banner/5eaa81944147.png",
+    "banner/a6cf6598f7a6.png",
+    "banner/a7ddb876e531.png",
+    "banner/a9645c65d665.png",
+    "banner/d3d832c5d8b8.png",
+    "banner/da1db4ad87b7.png",
+    "banner/e7d67d9267d4.png",
+    "banner/ed61c10d41b0.png",
+    "banner/fbeabdc1a0bd.png"
   ]
 }
