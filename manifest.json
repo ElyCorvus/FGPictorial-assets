@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260907",
-  "generatedAt": "2026-09-06T18:14:20.301Z",
+  "releaseId": "v20260907-2",
+  "generatedAt": "2026-09-06T18:57:11.873Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260907",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260907-2",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -17,7 +17,7 @@
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "ecb62775583f64ce808c8e09ca3031feb69c6919",
+      "hash": "c27b35b9d4b441c1f5f69924ccef696cc25e6857",
       "count": 1116
     },
     "recipe": {
@@ -32,7 +32,7 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "16654468521102a04aa339b6f70a6ee047ee68ac",
+      "hash": "2fe600d45e0200ef3e4fccb8903ecca432f0e156",
       "count": 14
     },
     "announcement": {
@@ -42,18 +42,18 @@
     }
   },
   "banners": [
-    "banner/04e3e6f43932.png",
-    "banner/1d78ffc5b339.png",
-    "banner/5b0cfd4cae63.png",
-    "banner/5eaa81944147.png",
-    "banner/a6cf6598f7a6.png",
-    "banner/a7ddb876e531.png",
-    "banner/a9645c65d665.png",
-    "banner/d3d832c5d8b8.png",
-    "banner/da1db4ad87b7.png",
-    "banner/e7d67d9267d4.png",
-    "banner/ed61c10d41b0.png",
-    "banner/fbeabdc1a0bd.png"
+    "banner/15e7eee950cb.png",
+    "banner/46d0ece11b70.png",
+    "banner/5bc0d6e8a527.png",
+    "banner/64388d7a7b7a.png",
+    "banner/690fa6270c71.png",
+    "banner/6f54898419e1.png",
+    "banner/8851cb776df1.png",
+    "banner/c82f40c12f53.png",
+    "banner/d9e4527cd537.png",
+    "banner/df9fc92c2ca4.png",
+    "banner/e357d8cbb1ff.png",
+    "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 39707916
+  "assetTotalBytes": 11106104
 }
