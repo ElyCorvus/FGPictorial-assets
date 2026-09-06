@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260906",
-  "generatedAt": "2026-09-05T18:26:15.895Z",
-  "keyId": "b38c96a430af",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260906",
+  "releaseId": "v20260907",
+  "generatedAt": "2026-09-06T18:14:20.301Z",
+  "keyId": "bd9d63884be6",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260907",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -27,17 +27,17 @@
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "a774a5ae7fffd58dcd2355e9c136a74aca0c9219",
+      "hash": "41db18b9b853f3f24b00b6a7971e29895b668315",
       "count": 425
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "991c6063656886552e96ae43473d69cfbed41526",
+      "hash": "16654468521102a04aa339b6f70a6ee047ee68ac",
       "count": 14
     },
     "announcement": {
       "file": "data/announcement.enc",
-      "hash": "6f8f0d54030d65fee3d5d374d77ce98d3de26d8c",
+      "hash": "dd261a93a77878a6322ac0ba399a3f43d19f0715",
       "count": 12
     }
   },
