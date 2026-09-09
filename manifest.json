@@ -1,43 +1,43 @@
 {
-  "releaseId": "v20260909-2",
-  "generatedAt": "2026-09-08T20:07:27.116Z",
+  "releaseId": "v20260909-3",
+  "generatedAt": "2026-09-09T08:39:25.362Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260909-2",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260909-3",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
       "file": "data/main.enc",
-      "hash": "b5a21e1b12dbf7c2da869c7f6dd1e6099362aa1e",
+      "hash": "a3f42e36494eb2d0fd5e1cffde5459b19eb21cc9536d169c2d5dfabb7298da82",
       "count": 4
     },
     "sub": {
       "file": "data/sub.enc",
-      "hash": "a6e853640a05e985dc4da6fe3959250a0d293712",
+      "hash": "c1431f629468d57a685fcdc81a8b1a4cdb040905c672c83c2a8e7b1c91fc7f0a",
       "count": 97
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "067a644424f05dacbf82d7f8b54cf42bbdeed8c1",
+      "hash": "f8eb03a620430f99edda5ce662a99ce4f4427fc15fcee5a2ea934a0053ca1a71",
       "count": 1116
     },
     "recipe": {
       "file": "data/recipe.enc",
-      "hash": "6629e8e2a91167063bede77e1c749263489c5c42",
+      "hash": "d3d16a07a0ba418a861ee9434d2e5ba9f18fc33b46b588c4e96ed2b3c7e8cd96",
       "count": 632
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "220c455925e27cf8f8dff9acb7dde3318b5a9ea5",
+      "hash": "0243fe46a22db38ac565de34bab28f54c7ae462867936337dbfc38d455fa5d16",
       "count": 425
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "e468df35cc7212e294ba830532314e5dc9d3dff9",
+      "hash": "5c5179e30367eb8df71e48ddc3455b240fb0e643a5d1adcfcf7b8a8c9ea2ddb9",
       "count": 15
     },
     "announcement": {
       "file": "data/announcement.enc",
-      "hash": "54221923c66cd11680b44186a9e637645e921dbf",
+      "hash": "6ce5b2678d08f8fe12e17227bc06129430b6abd9e7433e114940414e64c2be26",
       "count": 12
     }
   },
