@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260910-3",
-  "generatedAt": "2026-09-10T06:34:17.344Z",
+  "releaseId": "v20260910-4",
+  "generatedAt": "2026-09-10T07:25:40.273Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260910-3",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260910-4",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -32,7 +32,7 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "59a0067b82ac9a97e3994b855fbef60873da2b2f21252c261b1a5187c34cdc4f",
+      "hash": "e573a56364a839374cc4695ead9a4e2bc18a4927af226535d9ba5278fce34c8c",
       "count": 15
     },
     "announcement": {
