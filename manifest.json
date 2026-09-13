@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260912",
-  "generatedAt": "2026-09-11T20:09:14.013Z",
+  "releaseId": "v20260913",
+  "generatedAt": "2026-09-13T08:46:00.326Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260912",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260913",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -27,7 +27,7 @@
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "0243fe46a22db38ac565de34bab28f54c7ae462867936337dbfc38d455fa5d16",
+      "hash": "0ef9b02457d6b7d2903f9ec273be610ca2b8bcc14e8e234e19d73b677a60bec2",
       "count": 425
     },
     "activity": {
@@ -39,6 +39,11 @@
       "file": "data/announcement.enc",
       "hash": "6ce5b2678d08f8fe12e17227bc06129430b6abd9e7433e114940414e64c2be26",
       "count": 12
+    },
+    "rewards": {
+      "file": "data/rewards.enc",
+      "hash": "83229f29add4f139c2be6788715935822d5c546684f43db21ee961b4f15915fb",
+      "count": 54
     }
   },
   "banners": [
@@ -55,5 +60,8 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 11120688
+  "assetTotalBytes": 11478907,
+  "bundle": {
+    "file": "data/all.enc"
+  }
 }
