@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260917-3",
-  "generatedAt": "2026-09-17T02:18:20.750Z",
+  "releaseId": "v20260919",
+  "generatedAt": "2026-09-18T18:05:17.599Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260917-3",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260919",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -12,23 +12,23 @@
     },
     "sub": {
       "file": "data/sub.enc",
-      "hash": "c1431f629468d57a685fcdc81a8b1a4cdb040905c672c83c2a8e7b1c91fc7f0a",
-      "count": 97
+      "hash": "acd5663a22a2bae7c9d7eb02567cbb96102cdffd5b2bf5bfd189adcddaf117d8",
+      "count": 102
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "d1d5979e4ccb50bf407ee80a6c1dd51da07f380eab56aa1023c88f8cbc053df4",
-      "count": 1116
+      "hash": "166ff99cbfafa177d39fee8f6f9484e8bf45405a7cf4da9892a5645f061af8ed",
+      "count": 1182
     },
     "recipe": {
       "file": "data/recipe.enc",
-      "hash": "413d6b81bd4564a321d0083c3dde17d28bff77e2efcbed302d3daa89d150e506",
-      "count": 632
+      "hash": "0ea44eb8650e00a9bfb5e6cd511205bdee02dd1cf9f119536feaff995b00dabf",
+      "count": 682
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "5f3a010f5d2a3f32e0caa0ac359c929372787c22c46244c78b9f5bc5da93d16b",
-      "count": 425
+      "hash": "fb276ca4f124cb735f0e850bc0609787512c9833695a7fb47669c0098e7cb691",
+      "count": 460
     },
     "activity": {
       "file": "data/activity.enc",
@@ -42,12 +42,12 @@
     },
     "rewards": {
       "file": "data/rewards.enc",
-      "hash": "a763094ea24765373988fc456efa3c133d0dc8999846589a05f1e6884f8d42da",
-      "count": 54
+      "hash": "7aefcde624ed7e8c3f4329fd7847a08bfc1a153da3b74070fa1a578f8cac6e52",
+      "count": 55
     },
     "cardSeasons": {
       "file": "data/cardSeasons.enc",
-      "hash": "5b206a9206c3ee3e7491efdcb5caebb40daf32f62df2664b349955342f70ef84",
+      "hash": "fc3e5950f6fb7de84eb2ec505324383bd24c352f73e7557a42c26a5a0f55fb12",
       "count": 8
     }
   },
@@ -65,7 +65,7 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 12926106,
+  "assetTotalBytes": 13638694,
   "bundle": {
     "file": "data/all.enc"
   }
