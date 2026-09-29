@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20260929-2",
-  "generatedAt": "2026-09-29T06:09:33.368Z",
+  "releaseId": "v20260929-3",
+  "generatedAt": "2026-09-29T14:11:24.558Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260929-2",
+  "dataBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@v20260929-3",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -38,8 +38,8 @@
     "activity": {
       "file": "data/activity.enc",
       "file2": "data/activity2.enc",
-      "hash": "dc1b7ae621c02118c54c5b9c5bd67531454ca05a5bd9e80fd086b36ef6a0f78f",
-      "count": 16
+      "hash": "ff3e946d764f89d047ee7706e27cbd1566094aac94c8d4f972da0df1ec68563f",
+      "count": 17
     },
     "announcement": {
       "file": "data/announcement.enc",
@@ -58,12 +58,6 @@
       "file2": "data/cardSeasons2.enc",
       "hash": "39198949987d72d83e36671cd646a407ab9570ef3cb3691f5bbc8e0126eb5fb4",
       "count": 8
-    },
-    "notice": {
-      "file": "data/notice.enc",
-      "file2": "data/notice2.enc",
-      "hash": "f3511153bb2086bd2e990b192d5b478664ae971caf857d2f8fbec457adf068fb",
-      "count": 6
     }
   },
   "banners": [
@@ -83,7 +77,7 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 14034944,
+  "assetTotalBytes": 14041341,
   "bundle": {
     "file": "data/all.enc"
   },

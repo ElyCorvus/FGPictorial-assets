@@ -1,9 +1,10 @@
 {
-  "notice": "《乡野农场》的烟花卡牌已更新，祝大家本季顺利集齐、下季满血出击。\n越南系列的物品图鉴与营业日订单已更新，欢迎查阅。\n多使用、多分享是最好的支持！",
+  "notice": "「乡野农场」截至 2026.10.05 上午 10:00 \n本周日将有双倍卡包，请大家合理规划游戏进度，理性充值，不要急眼。\n烟花卡册图片已更新，预祝大家下一赛季满血出击。\n越南系列的物品图鉴与营业日订单已更新。",
   "changelog": [
     {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "items": [
+        "新增公告栏：可以看游戏活动时间表和食谱集的更新记录了。",
         "囤菜选项：在囤菜清单页面，可以设置让已勾选的项移到列表末尾。"
       ]
     },
@@ -43,5 +44,61 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-29T06:09:34.180Z"
+  "schedule": {
+    "title": "9.28~10.4 本周活动表",
+    "rows": [
+      {
+        "label": "周一",
+        "acts": [
+          "FloatRace",
+          "Clover"
+        ]
+      },
+      {
+        "label": "周二",
+        "acts": [
+          "FireRank",
+          "DoubleCardPack"
+        ]
+      },
+      {
+        "label": "周三",
+        "acts": [
+          "FireRank",
+          "DrawerRush",
+          "Gems"
+        ]
+      },
+      {
+        "label": "周四",
+        "acts": [
+          "birdToFly",
+          "SurpriseBox",
+          "Gems"
+        ]
+      },
+      {
+        "label": "周五",
+        "acts": [
+          "Burger"
+        ]
+      },
+      {
+        "label": "周六",
+        "acts": [
+          "Burger",
+          "DoubleCardPack"
+        ]
+      },
+      {
+        "label": "周日",
+        "acts": [
+          "Burger",
+          "ClimbTower",
+          "DoubleCardPack"
+        ]
+      }
+    ]
+  },
+  "updatedAt": "2026-09-29T14:11:25.195Z"
 }
