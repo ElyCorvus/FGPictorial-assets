@@ -1,0 +1,237 @@
+
+goose13.png
+size: 363,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waimai_bbaobao
+  rotate: true
+  xy: 290, 98
+  size: 66, 62
+  orig: 68, 64
+  offset: 1, 1
+  index: -1
+waimai_bbaodai
+  rotate: false
+  xy: 170, 51
+  size: 72, 58
+  orig: 74, 58
+  offset: 2, 0
+  index: -1
+waimai_bbolizhao
+  rotate: true
+  xy: 254, 166
+  size: 26, 38
+  orig: 28, 40
+  offset: 1, 1
+  index: -1
+waimai_bshenti
+  rotate: true
+  xy: 2, 81
+  size: 94, 78
+  orig: 96, 80
+  offset: 1, 1
+  index: -1
+waimai_btou
+  rotate: false
+  xy: 254, 194
+  size: 81, 65
+  orig: 83, 67
+  offset: 1, 1
+  index: -1
+waimai_btoukui
+  rotate: false
+  xy: 2, 177
+  size: 96, 99
+  orig: 98, 101
+  offset: 1, 1
+  index: -1
+waimai_btoukuidai
+  rotate: true
+  xy: 82, 156
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+waimai_btoukuikou
+  rotate: false
+  xy: 302, 265
+  size: 20, 19
+  orig: 22, 21
+  offset: 1, 1
+  index: -1
+waimai_bwanou
+  rotate: false
+  xy: 286, 56
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+waimai_byifu
+  rotate: true
+  xy: 97, 68
+  size: 102, 71
+  orig: 104, 73
+  offset: 1, 1
+  index: -1
+waimai_byoujiao
+  rotate: true
+  xy: 337, 287
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+waimai_byoushou
+  rotate: true
+  xy: 41, 3
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+waimai_bzhidai
+  rotate: true
+  xy: 244, 23
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+waimai_bzuojiao
+  rotate: true
+  xy: 294, 175
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+waimai_bzuoshou
+  rotate: false
+  xy: 326, 18
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+waimai_zbaobao
+  rotate: false
+  xy: 94, 4
+  size: 66, 62
+  orig: 68, 64
+  offset: 1, 1
+  index: -1
+waimai_zbaodai
+  rotate: false
+  xy: 170, 111
+  size: 118, 52
+  orig: 118, 54
+  offset: 0, 0
+  index: -1
+waimai_zbiaoqing
+  rotate: true
+  xy: 2, 3
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+waimai_zbolizhao
+  rotate: false
+  xy: 2, 35
+  size: 90, 44
+  orig: 92, 46
+  offset: 1, 1
+  index: -1
+waimai_zdanzi
+  rotate: false
+  xy: 272, 263
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+waimai_zlasuo
+  rotate: true
+  xy: 82, 140
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+waimai_zshenti
+  rotate: true
+  xy: 174, 165
+  size: 94, 78
+  orig: 96, 80
+  offset: 1, 1
+  index: -1
+waimai_ztou
+  rotate: true
+  xy: 272, 286
+  size: 75, 63
+  orig: 77, 65
+  offset: 1, 1
+  index: -1
+waimai_ztoukui
+  rotate: true
+  xy: 174, 261
+  size: 100, 96
+  orig: 102, 98
+  offset: 1, 1
+  index: -1
+waimai_ztoukuikou
+  rotate: false
+  xy: 324, 265
+  size: 20, 19
+  orig: 22, 21
+  offset: 1, 1
+  index: -1
+waimai_zwanou
+  rotate: true
+  xy: 244, 65
+  size: 44, 40
+  orig: 46, 42
+  offset: 1, 1
+  index: -1
+waimai_zyifu
+  rotate: true
+  xy: 100, 172
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+waimai_zyoujiao
+  rotate: false
+  xy: 337, 334
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 1
+  index: -1
+waimai_zyoushou
+  rotate: false
+  xy: 328, 60
+  size: 30, 36
+  orig: 32, 38
+  offset: 1, 1
+  index: -1
+waimai_zzhidai
+  rotate: false
+  xy: 284, 16
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+waimai_zzuojiao
+  rotate: false
+  xy: 337, 306
+  size: 18, 26
+  orig: 20, 28
+  offset: 1, 1
+  index: -1
+waimai_zzuoshou
+  rotate: true
+  xy: 162, 19
+  size: 30, 35
+  orig: 32, 37
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 278
+  size: 170, 83
+  orig: 172, 85
+  offset: 1, 1
+  index: -1

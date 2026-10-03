@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261002-3",
-  "generatedAt": "2026-10-02T12:52:51.808Z",
+  "releaseId": "v20261004",
+  "generatedAt": "2026-10-03T18:45:57.696Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261002-3/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261004/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -49,6 +49,16 @@
       "file": "data/cardSeasons.enc",
       "hash": "39198949987d72d83e36671cd646a407ab9570ef3cb3691f5bbc8e0126eb5fb4",
       "count": 8
+    },
+    "goose": {
+      "file": "data/goose.enc",
+      "hash": "6cd6636b7f3016aa7d716b94c0e2dab82270c5d3c9422bbe90082321573cfcdc",
+      "count": 16
+    },
+    "narrative": {
+      "file": "data/narrative.enc",
+      "hash": "75fe22f41c467abb749db95f26cd6120d783fe8722e6421bdb908f5872e84886",
+      "count": 15
     }
   },
   "banners": [

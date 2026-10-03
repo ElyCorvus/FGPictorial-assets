@@ -1,0 +1,279 @@
+
+goose11.png
+size: 397,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baofahu_bshenti
+  rotate: true
+  xy: 174, 265
+  size: 130, 113
+  orig: 132, 115
+  offset: 1, 1
+  index: -1
+baofahu_bshoubiao
+  rotate: true
+  xy: 381, 158
+  size: 35, 14
+  orig: 37, 16
+  offset: 1, 1
+  index: -1
+baofahu_btou
+  rotate: false
+  xy: 256, 68
+  size: 96, 73
+  orig: 98, 75
+  offset: 1, 1
+  index: -1
+baofahu_btoufa
+  rotate: false
+  xy: 117, 65
+  size: 72, 69
+  orig: 74, 71
+  offset: 1, 1
+  index: -1
+baofahu_byifu
+  rotate: false
+  xy: 117, 136
+  size: 137, 100
+  orig: 139, 102
+  offset: 1, 1
+  index: -1
+baofahu_byoudabi
+  rotate: true
+  xy: 301, 253
+  size: 53, 56
+  orig: 55, 58
+  offset: 1, 1
+  index: -1
+baofahu_byoujiao
+  rotate: false
+  xy: 310, 40
+  size: 18, 26
+  orig: 20, 28
+  offset: 1, 1
+  index: -1
+baofahu_byoushou
+  rotate: false
+  xy: 212, 239
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+baofahu_byouxiaobi
+  rotate: true
+  xy: 86, 138
+  size: 40, 29
+  orig: 42, 31
+  offset: 1, 1
+  index: -1
+baofahu_bzuodabi
+  rotate: false
+  xy: 334, 195
+  size: 53, 56
+  orig: 55, 58
+  offset: 1, 1
+  index: -1
+baofahu_bzuojiao
+  rotate: true
+  xy: 367, 309
+  size: 19, 26
+  orig: 21, 28
+  offset: 1, 1
+  index: -1
+baofahu_bzuoshou
+  rotate: false
+  xy: 272, 239
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+baofahu_bzuoxiaobi
+  rotate: true
+  xy: 141, 270
+  size: 40, 30
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+baofahu_yan
+  rotate: false
+  xy: 174, 239
+  size: 36, 24
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+baofahu_zbiaoqing
+  rotate: false
+  xy: 354, 41
+  size: 41, 48
+  orig: 43, 51
+  offset: 1, 1
+  index: -1
+baofahu_zchenshan
+  rotate: true
+  xy: 2, 50
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+baofahu_zhusai
+  rotate: false
+  xy: 334, 148
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+baofahu_zhuzi
+  rotate: false
+  xy: 141, 254
+  size: 31, 14
+  orig: 33, 16
+  offset: 1, 1
+  index: -1
+baofahu_zmojing
+  rotate: true
+  xy: 367, 330
+  size: 36, 22
+  orig: 38, 24
+  offset: 1, 1
+  index: -1
+baofahu_zshenti
+  rotate: true
+  xy: 2, 180
+  size: 130, 113
+  orig: 132, 115
+  offset: 1, 1
+  index: -1
+baofahu_zshoubiao
+  rotate: false
+  xy: 244, 48
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+baofahu_ztou
+  rotate: true
+  xy: 289, 308
+  size: 87, 76
+  orig: 89, 78
+  offset: 1, 1
+  index: -1
+baofahu_ztoufa
+  rotate: true
+  xy: 354, 91
+  size: 55, 39
+  orig: 57, 41
+  offset: 1, 1
+  index: -1
+baofahu_zxianglian
+  rotate: true
+  xy: 359, 255
+  size: 51, 22
+  orig: 53, 24
+  offset: 1, 1
+  index: -1
+baofahu_zyaodaikou
+  rotate: true
+  xy: 330, 49
+  size: 17, 15
+  orig: 19, 17
+  offset: 1, 1
+  index: -1
+baofahu_zyoudabi
+  rotate: false
+  xy: 191, 78
+  size: 53, 56
+  orig: 55, 58
+  offset: 1, 1
+  index: -1
+baofahu_zyoujiao
+  rotate: false
+  xy: 86, 67
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 1
+  index: -1
+baofahu_zyoushou
+  rotate: true
+  xy: 367, 368
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+baofahu_zyouxiaobi
+  rotate: false
+  xy: 2, 18
+  size: 40, 30
+  orig: 42, 32
+  offset: 1, 1
+  index: -1
+baofahu_zyouyifu
+  rotate: false
+  xy: 256, 143
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+baofahu_zyouyiling
+  rotate: false
+  xy: 44, 10
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+baofahu_zzuodabi
+  rotate: true
+  xy: 86, 10
+  size: 53, 56
+  orig: 55, 58
+  offset: 1, 1
+  index: -1
+baofahu_zzuojiao
+  rotate: true
+  xy: 281, 48
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 1
+  index: -1
+baofahu_zzuoshou
+  rotate: false
+  xy: 242, 239
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+baofahu_zzuoxiaobi
+  rotate: true
+  xy: 86, 96
+  size: 40, 29
+  orig: 42, 31
+  offset: 1, 1
+  index: -1
+baofahu_zzuoyifu
+  rotate: false
+  xy: 117, 238
+  size: 22, 72
+  orig: 22, 72
+  offset: 0, 0
+  index: -1
+baofahu_zzuoyiling
+  rotate: true
+  xy: 191, 8
+  size: 68, 51
+  orig: 70, 53
+  offset: 1, 1
+  index: -1
+caoguang1
+  rotate: true
+  xy: 144, 13
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 312
+  size: 170, 83
+  orig: 172, 85
+  offset: 1, 1
+  index: -1
