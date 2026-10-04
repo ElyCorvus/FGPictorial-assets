@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261004-2",
-  "generatedAt": "2026-10-04T07:11:41.676Z",
+  "releaseId": "v20261005",
+  "generatedAt": "2026-10-04T17:12:13.848Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261004-2/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261005/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -52,12 +52,12 @@
     },
     "goose": {
       "file": "data/goose.enc",
-      "hash": "2ed48fc5af905d6228b907cf368d0bb81e60d676d00501d40a1f5db1ea8d2069",
+      "hash": "e0587bebe5ed8bdfef53484370188a3eeed2f29229baa4de67e33a369578eb4f",
       "count": 16
     },
     "narrative": {
       "file": "data/narrative.enc",
-      "hash": "7e7ccfab890d28344a4c51046d7c5a504503acf704efa402584d38f19607e8c6",
+      "hash": "05d144ee375f469df101b8f83cce38e93cddddc9462889005be41bef76764109",
       "count": 15
     }
   },
