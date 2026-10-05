@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261005-2",
-  "generatedAt": "2026-10-05T03:10:26.407Z",
+  "releaseId": "v20261005-3",
+  "generatedAt": "2026-10-05T03:39:49.137Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261005-2/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261005-3/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -47,7 +47,7 @@
     },
     "cardSeasons": {
       "file": "data/cardSeasons.enc",
-      "hash": "8df175b170ef8d2fdfeb25c3312d8506eb06bca5a3083883a6bba9813914fba1",
+      "hash": "3038d2dcd4489c2b542e3be99f99fe0096d5d8897e4ba551ba4240b835010926",
       "count": 9
     },
     "goose": {
@@ -78,7 +78,7 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 13998514,
+  "assetTotalBytes": 14014344,
   "bundle": {
     "file": "data/all.enc"
   }
