@@ -1,0 +1,272 @@
+
+goose10.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m1
+  rotate: false
+  xy: 285, 26
+  size: 13, 17
+  orig: 15, 19
+  offset: 1, 1
+  index: -1
+m2
+  rotate: true
+  xy: 285, 7
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+m3
+  rotate: false
+  xy: 300, 30
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+m4
+  rotate: false
+  xy: 277, 45
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+m5
+  rotate: false
+  xy: 303, 89
+  size: 7, 19
+  orig: 9, 21
+  offset: 1, 1
+  index: -1
+nvjing_bbianzi
+  rotate: false
+  xy: 213, 41
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+nvjing_bduijiangji
+  rotate: true
+  xy: 276, 110
+  size: 28, 34
+  orig: 30, 36
+  offset: 1, 1
+  index: -1
+nvjing_bmaozi
+  rotate: true
+  xy: 269, 243
+  size: 71, 45
+  orig: 73, 47
+  offset: 1, 1
+  index: -1
+nvjing_bshenti
+  rotate: false
+  xy: 174, 236
+  size: 93, 78
+  orig: 95, 80
+  offset: 1, 1
+  index: -1
+nvjing_btou
+  rotate: true
+  xy: 103, 147
+  size: 82, 66
+  orig: 84, 68
+  offset: 1, 1
+  index: -1
+nvjing_btoufa
+  rotate: false
+  xy: 103, 29
+  size: 70, 51
+  orig: 72, 53
+  offset: 1, 1
+  index: -1
+nvjing_byaodai
+  rotate: false
+  xy: 174, 206
+  size: 100, 28
+  orig: 102, 30
+  offset: 1, 1
+  index: -1
+nvjing_byifu
+  rotate: false
+  xy: 2, 156
+  size: 99, 73
+  orig: 101, 75
+  offset: 1, 1
+  index: -1
+nvjing_byoujianzhang
+  rotate: false
+  xy: 282, 89
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+nvjing_byoujiao
+  rotate: false
+  xy: 103, 2
+  size: 18, 25
+  orig: 20, 27
+  offset: 1, 1
+  index: -1
+nvjing_byoushou
+  rotate: false
+  xy: 175, 2
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+nvjing_bzuojianzhang
+  rotate: false
+  xy: 282, 68
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+nvjing_bzuojiao
+  rotate: false
+  xy: 123, 2
+  size: 18, 25
+  orig: 20, 27
+  offset: 1, 1
+  index: -1
+nvjing_bzuoshou
+  rotate: false
+  xy: 249, 65
+  size: 31, 35
+  orig: 33, 37
+  offset: 1, 1
+  index: -1
+nvjing_zbianzi
+  rotate: false
+  xy: 175, 40
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+nvjing_zbiaoqing
+  rotate: false
+  xy: 248, 102
+  size: 26, 31
+  orig: 28, 33
+  offset: 1, 1
+  index: -1
+nvjing_zduijijang
+  rotate: false
+  xy: 248, 135
+  size: 26, 38
+  orig: 28, 40
+  offset: 1, 1
+  index: -1
+nvjing_zliandan
+  rotate: true
+  xy: 276, 178
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+nvjing_zlingdai
+  rotate: false
+  xy: 241, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+nvjing_zmaozi
+  rotate: false
+  xy: 175, 130
+  size: 71, 43
+  orig: 73, 45
+  offset: 1, 1
+  index: -1
+nvjing_zshenti
+  rotate: false
+  xy: 2, 77
+  size: 94, 77
+  orig: 96, 79
+  offset: 1, 1
+  index: -1
+nvjing_ztou
+  rotate: false
+  xy: 98, 82
+  size: 75, 63
+  orig: 77, 65
+  offset: 1, 1
+  index: -1
+nvjing_ztoufa
+  rotate: false
+  xy: 175, 85
+  size: 70, 43
+  orig: 73, 45
+  offset: 1, 1
+  index: -1
+nvjing_zyaodai
+  rotate: false
+  xy: 171, 175
+  size: 103, 29
+  orig: 103, 29
+  offset: 0, 0
+  index: -1
+nvjing_zyifu
+  rotate: false
+  xy: 2, 3
+  size: 99, 72
+  orig: 101, 74
+  offset: 1, 1
+  index: -1
+nvjing_zyoujianzhang
+  rotate: false
+  xy: 265, 24
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+nvjing_zyoujiao
+  rotate: true
+  xy: 143, 10
+  size: 17, 27
+  orig: 19, 29
+  offset: 1, 1
+  index: -1
+nvjing_zyoushou
+  rotate: false
+  xy: 208, 2
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+nvjing_zzuojianzhang
+  rotate: false
+  xy: 265, 3
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+nvjing_zzuojiao
+  rotate: true
+  xy: 249, 45
+  size: 18, 26
+  orig: 20, 28
+  offset: 1, 1
+  index: -1
+nvjing_zzuoshou
+  rotate: false
+  xy: 276, 140
+  size: 31, 36
+  orig: 33, 38
+  offset: 1, 1
+  index: -1
+nvjing_zzuoshou2
+  rotate: true
+  xy: 295, 49
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 231
+  size: 170, 83
+  orig: 172, 85
+  offset: 1, 1
+  index: -1
