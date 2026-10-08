@@ -1,10 +1,9 @@
 {
-  "releaseId": "v20261007-3",
-  "generatedAt": "2026-10-06T19:32:26.948Z",
+  "releaseId": "v20261008",
+  "generatedAt": "2026-10-08T05:46:29.259Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261007-3/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261008/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
-  "assetBasePrimary": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la",
   "tables": {
     "main": {
       "file": "data/main.enc",
