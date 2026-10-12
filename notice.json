@@ -1,5 +1,5 @@
 {
-  "notice": "卡牌赛季「星夜月明」开始了~\n图册已更新，祝大家顺利集齐。\n\n食谱集新增【剧情回顾】模块，游戏过程中忙着建造拿体力而全部跳过的剧情现在可以随时方便地回看了。",
+  "notice": "卡牌赛季「星夜月明」进行中……\n\n微信服兑换码：秋夜望月\n（截至 2026/10/13 23:59:59）",
   "changelog": [
     {
       "date": "2026-10-07",
@@ -58,64 +58,58 @@
     }
   ],
   "schedule": {
-    "title": "10.5~10.11 本周活动表",
+    "title": "10.12~10.18 本周活动表",
     "rows": [
       {
         "label": "周一",
         "acts": [
-          "CloudMelodies",
+          "FloatRace",
           "Clover"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "UpgradeRace",
+          "WeightRace",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "UpgradeRace",
+          "WeightRace",
           "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "GymSprint",
-          "SurpriseBox",
-          "BigdayRush"
+          "birdToFly",
+          "SurpriseBox"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "Burger",
-          "Gems",
-          "BigdayRush"
+          "Burger"
         ]
       },
       {
         "label": "周六",
         "acts": [
           "Burger",
-          "DoubleCardPack",
-          "Gems",
-          "BigdayRush"
+          "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
           "Burger",
-          "ClimbTower",
-          "Gems"
+          "ClimbTower"
         ]
       }
     ],
-    "weekStart": "2026-10-05"
+    "weekStart": "2026-10-12"
   },
-  "updatedAt": "2026-10-10T09:09:23.040Z"
+  "updatedAt": "2026-10-12T02:17:50.549Z"
 }
