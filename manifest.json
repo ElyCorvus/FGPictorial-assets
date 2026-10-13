@@ -1,65 +1,76 @@
 {
-  "releaseId": "v20261013-3",
-  "generatedAt": "2026-10-13T08:51:25.139Z",
+  "releaseId": "v20261013-4",
+  "generatedAt": "2026-10-13T11:29:54.641Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261013-3/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261013-4/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
       "file": "data/main.enc",
       "hash": "a3f42e36494eb2d0fd5e1cffde5459b19eb21cc9536d169c2d5dfabb7298da82",
-      "count": 4
+      "count": 4,
+      "bytes": 300
     },
     "sub": {
       "file": "data/sub.enc",
       "hash": "5ad4a143dd4ea4d30584db7fc5a220e2ae609d4ea28361a3935d252786ca798f",
-      "count": 107
+      "count": 107,
+      "bytes": 20696
     },
     "item": {
       "file": "data/item.enc",
       "hash": "60b8a1d3ff213af22e86990c84fc20f203c9b1397c789ef3dde23a47f10028ad",
-      "count": 1248
+      "count": 1248,
+      "bytes": 296688
     },
     "recipe": {
       "file": "data/recipe.enc",
       "hash": "3f85bce4d227d85af1c06205456ee24cde8a48ec89c81c5eeb496d11fb990818",
-      "count": 732
+      "count": 732,
+      "bytes": 88456
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "058d33f19eefaf122cfc82d83c1a88eb256727d03e471e6320389fdb64d9eb79",
-      "count": 495
+      "hash": "a3bf03cd0b2ba776ebfc9fa74a99d85077ecc90c0f8b8bcb23d254206621fe63",
+      "count": 495,
+      "bytes": 223740
     },
     "activity": {
       "file": "data/activity.enc",
       "hash": "82bff1d5be113c30ddcaf79f85a83973b68af5afd119c688c9e30ebe5a65d7fa",
-      "count": 17
+      "count": 17,
+      "bytes": 43092
     },
     "announcement": {
       "file": "data/announcement.enc",
       "hash": "7e5235477117c33ddcdce3b485ba1a6231fc0076fb17b84f11ba0ddda3992920",
-      "count": 11
+      "count": 11,
+      "bytes": 932
     },
     "rewards": {
       "file": "data/rewards.enc",
       "hash": "3de015a3b20f733ed6ca2aafb39f40a64e647fbe8b4c5886dc09159cfd5e4686",
-      "count": 57
+      "count": 57,
+      "bytes": 3504
     },
     "cardSeasons": {
       "file": "data/cardSeasons.enc",
       "hash": "080742414d6a5436cb7e75dfb529bc6c261de4f48bfc0e634e742a2321bdb501",
       "count": 9,
+      "bytes": 102780,
       "src": "jsd"
     },
     "goose": {
       "file": "data/goose.enc",
       "hash": "879665b6e8ab69040e5e74257e5df162538afadfe0db65cf67f2a701619117f3",
-      "count": 17
+      "count": 17,
+      "bytes": 22632
     },
     "narrative": {
       "file": "data/narrative.enc",
       "hash": "dd2175ac403ee0c04ac86aaf5299475611fee47cb6a26b6e5b7449e89b073bec",
       "count": 16,
+      "bytes": 445936,
       "src": "jsd"
     }
   },
@@ -82,6 +93,7 @@
   ],
   "assetTotalBytes": 14762623,
   "bundle": {
-    "file": "data/all.enc"
+    "file": "data/all.enc",
+    "bytes": 700149
   }
 }
