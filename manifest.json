@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261008",
-  "generatedAt": "2026-10-08T05:46:29.259Z",
+  "releaseId": "v20261013",
+  "generatedAt": "2026-10-13T08:31:34.777Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261008/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261013/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -12,23 +12,23 @@
     },
     "sub": {
       "file": "data/sub.enc",
-      "hash": "acd5663a22a2bae7c9d7eb02567cbb96102cdffd5b2bf5bfd189adcddaf117d8",
-      "count": 102
+      "hash": "5ad4a143dd4ea4d30584db7fc5a220e2ae609d4ea28361a3935d252786ca798f",
+      "count": 107
     },
     "item": {
       "file": "data/item.enc",
-      "hash": "f0c0aa8f6c3e6f544278046a8fdf9d2df16979eeed9d899e07de4d8bbf7afea6",
-      "count": 1182
+      "hash": "60b8a1d3ff213af22e86990c84fc20f203c9b1397c789ef3dde23a47f10028ad",
+      "count": 1248
     },
     "recipe": {
       "file": "data/recipe.enc",
-      "hash": "0ea44eb8650e00a9bfb5e6cd511205bdee02dd1cf9f119536feaff995b00dabf",
-      "count": 682
+      "hash": "3f85bce4d227d85af1c06205456ee24cde8a48ec89c81c5eeb496d11fb990818",
+      "count": 732
     },
     "daily": {
       "file": "data/daily.enc",
-      "hash": "fb276ca4f124cb735f0e850bc0609787512c9833695a7fb47669c0098e7cb691",
-      "count": 460
+      "hash": "058d33f19eefaf122cfc82d83c1a88eb256727d03e471e6320389fdb64d9eb79",
+      "count": 495
     },
     "activity": {
       "file": "data/activity.enc",
@@ -42,23 +42,25 @@
     },
     "rewards": {
       "file": "data/rewards.enc",
-      "hash": "7aefcde624ed7e8c3f4329fd7847a08bfc1a153da3b74070fa1a578f8cac6e52",
-      "count": 55
+      "hash": "ae111ade246cf4952a7a68496b62de96918f5a3ed5a46953506011aa2061126f",
+      "count": 56
     },
     "cardSeasons": {
       "file": "data/cardSeasons.enc",
-      "hash": "3038d2dcd4489c2b542e3be99f99fe0096d5d8897e4ba551ba4240b835010926",
-      "count": 9
+      "hash": "080742414d6a5436cb7e75dfb529bc6c261de4f48bfc0e634e742a2321bdb501",
+      "count": 9,
+      "src": "jsd"
     },
     "goose": {
       "file": "data/goose.enc",
-      "hash": "fe11c42d7d98f40dcbaacbc1b9bb639194f60580e40a1e7f83a6d9a040a00dc0",
-      "count": 16
+      "hash": "386ee2f1572f3a7a1db5cb65f95d36f82436423539c755e1e878c33d66a51596",
+      "count": 17
     },
     "narrative": {
       "file": "data/narrative.enc",
-      "hash": "c8cc9c400e38ca8bffecce9162d5143a89e59defde8c9b600f2b94a3ff4912ee",
-      "count": 15
+      "hash": "dd2175ac403ee0c04ac86aaf5299475611fee47cb6a26b6e5b7449e89b073bec",
+      "count": 16,
+      "src": "jsd"
     }
   },
   "banners": [
@@ -78,7 +80,7 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 14014344,
+  "assetTotalBytes": 14776468,
   "bundle": {
     "file": "data/all.enc"
   }
