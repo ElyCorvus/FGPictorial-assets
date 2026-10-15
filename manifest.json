@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261013-4",
-  "generatedAt": "2026-10-13T11:29:54.641Z",
+  "releaseId": "v20261015",
+  "generatedAt": "2026-10-15T10:05:40.745Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261013-4/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261015/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -37,9 +37,9 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "82bff1d5be113c30ddcaf79f85a83973b68af5afd119c688c9e30ebe5a65d7fa",
+      "hash": "1f54fa4ddb1235b6d4a42e5940ce6aba242664672df04b688e9792f4c4f5668e",
       "count": 17,
-      "bytes": 43092
+      "bytes": 43108
     },
     "announcement": {
       "file": "data/announcement.enc",
@@ -94,6 +94,6 @@
   "assetTotalBytes": 14762623,
   "bundle": {
     "file": "data/all.enc",
-    "bytes": 700149
+    "bytes": 700165
   }
 }
