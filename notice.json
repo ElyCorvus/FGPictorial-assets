@@ -1,5 +1,5 @@
 {
-  "notice": "卡牌赛季「星夜月明」进行中……\n本季烟花卡册已更新。\n摩洛哥系列图鉴、营业日订单、剧情回顾已更新，可按需参考。",
+  "notice": "卡牌赛季「星夜月明」到了第三周，祝大家早日集齐卡牌，快乐游戏。\n肥鹅，周五的活动也要轮换吗？那很坏了。\n\n微信服兑换码：丰收庆典\n（截至2026/10/20 23:59:59）\n\n*作者并非全职开发运营，近期非常忙碌，数据与功能更新可能有delay，感谢诸君海涵。^-^❤\n",
   "changelog": [
     {
       "date": "2026-10-13",
@@ -64,58 +64,63 @@
     }
   ],
   "schedule": {
-    "title": "10.12~10.18 本周活动表",
+    "title": "10.19~10.25 本周活动表",
     "rows": [
       {
         "label": "周一",
         "acts": [
-          "FloatRace",
-          "Clover"
+          "Collection",
+          "Clover",
+          "Gems"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "WeightRace",
-          "DoubleCardPack"
+          "FireRank",
+          "DoubleCardPack",
+          "Gems"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "WeightRace",
+          "FireRank",
           "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "birdToFly",
+          "GymSprint",
+          "BigdayRush",
           "SurpriseBox"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "Burger"
+          "unknown",
+          "BigdayRush"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "Burger",
+          "unknown",
+          "BigdayRush",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "Burger",
+          "unknown",
           "ClimbTower"
         ]
       }
     ],
-    "weekStart": "2026-10-12"
+    "weekStart": "2026-10-19"
   },
-  "updatedAt": "2026-10-15T10:05:41.073Z"
+  "updatedAt": "2026-10-19T02:20:06.288Z"
 }
