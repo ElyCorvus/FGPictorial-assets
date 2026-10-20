@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261019",
-  "generatedAt": "2026-10-19T02:20:05.043Z",
+  "releaseId": "v20261020",
+  "generatedAt": "2026-10-20T06:25:56.428Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261019/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261020/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -37,9 +37,9 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "d8f7ae7d6633eec3dd511710981baea149c51eda5504d89aacdfc04892c50297",
+      "hash": "2dac43708e7107f7464aebd31b6cb29fd775442cecfd4c1ca3e95b11e117c38e",
       "count": 18,
-      "bytes": 43644
+      "bytes": 43684
     },
     "announcement": {
       "file": "data/announcement.enc",
@@ -49,9 +49,9 @@
     },
     "rewards": {
       "file": "data/rewards.enc",
-      "hash": "3de015a3b20f733ed6ca2aafb39f40a64e647fbe8b4c5886dc09159cfd5e4686",
-      "count": 57,
-      "bytes": 3504
+      "hash": "e441547a541feab92bd286343292b9a426861e96745d8688b83451539c9d4443",
+      "count": 60,
+      "bytes": 3692
     },
     "cardSeasons": {
       "file": "data/cardSeasons.enc",
@@ -91,9 +91,9 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 14762623,
+  "assetTotalBytes": 14782488,
   "bundle": {
     "file": "data/all.enc",
-    "bytes": 700701
+    "bytes": 700929
   }
 }
