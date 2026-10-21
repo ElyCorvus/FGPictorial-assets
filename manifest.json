@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261020",
-  "generatedAt": "2026-10-20T06:25:56.428Z",
+  "releaseId": "v20261022",
+  "generatedAt": "2026-10-21T19:11:04.718Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261020/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261022/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -37,9 +37,9 @@
     },
     "activity": {
       "file": "data/activity.enc",
-      "hash": "2dac43708e7107f7464aebd31b6cb29fd775442cecfd4c1ca3e95b11e117c38e",
+      "hash": "42453e332e129713232ff00046ddc4b8091d3c79045b68849f80520306217436",
       "count": 18,
-      "bytes": 43684
+      "bytes": 46768
     },
     "announcement": {
       "file": "data/announcement.enc",
@@ -76,24 +76,22 @@
   },
   "banners": [
     "banner/15e7eee950cb.png",
-    "banner/1c19625f1a5b.png",
-    "banner/2cbc012c3748.png",
-    "banner/46d0ece11b70.png",
     "banner/5bc0d6e8a527.png",
     "banner/64388d7a7b7a.png",
     "banner/690fa6270c71.png",
     "banner/8851cb776df1.png",
     "banner/8cf35c070855.png",
     "banner/ae53094588e0.png",
+    "banner/c450ff05f2c4.png",
     "banner/c82f40c12f53.png",
     "banner/d9e4527cd537.png",
     "banner/df9fc92c2ca4.png",
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 14782488,
+  "assetTotalBytes": 14553682,
   "bundle": {
     "file": "data/all.enc",
-    "bytes": 700929
+    "bytes": 704013
   }
 }
