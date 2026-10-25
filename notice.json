@@ -1,5 +1,5 @@
 {
-  "notice": "卡牌赛季「星夜月明」到了第三周，祝大家早日集齐卡牌，快乐游戏。\n\n*作者非全职开发运营，近期非常忙碌，数据与功能更新可能有delay，感谢诸君海涵。^-^❤\n",
+  "notice": "卡牌赛季「星夜月明」最后一周，大家轻松游戏，理性充值。\n由于官方给微信服的兑换码名额实在少得抠门，此处将不再转载，大家可自行在游戏圈蹲等官方帖子更新。\n烟花卡牌周期间，部分活动奖励包含烟花卡包，与平时不尽相同，请以游戏运行时为准。\n\n*作者非全职开发运营，近期非常忙碌，数据与功能更新可能有delay，感谢诸君海涵。^-^❤",
   "changelog": [
     {
       "date": "2026-10-20",
@@ -70,67 +70,65 @@
     }
   ],
   "schedule": {
-    "title": "10.19~10.25 本周活动表",
+    "title": "10.26~11.1 本周活动表",
     "rows": [
       {
         "label": "周一",
         "acts": [
-          "Collection",
-          "Clover",
-          "Gems"
+          "FloatRace",
+          "Clover"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "FireRank",
-          "DoubleCardPack",
-          "Gems"
+          "UpgradeRace",
+          "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "FireRank",
-          "DrawerRush"
+          "UpgradeRace",
+          "DrawerRush",
+          "Gems"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "GymSprint",
-          "BigdayRush",
-          "SurpriseBox"
+          "birdToFly",
+          "SurpriseBox",
+          "Gems"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "bumperCar",
-          "BigdayRush"
+          "Burger"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "bumperCar",
-          "BigdayRush",
+          "Burger",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "bumperCar",
-          "ClimbTower"
+          "Burger",
+          "ClimbTower",
+          "DoubleCardPack"
         ]
       }
     ],
-    "weekStart": "2026-10-19"
+    "weekStart": "2026-10-26"
   },
   "cosLine": {
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-22T00:04:46.251Z"
+  "updatedAt": "2026-10-25T18:41:44.922Z"
 }
