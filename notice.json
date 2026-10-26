@@ -82,14 +82,14 @@
       {
         "label": "周二",
         "acts": [
-          "UpgradeRace",
+          "FireRank",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "UpgradeRace",
+          "FireRank",
           "DrawerRush",
           "Gems"
         ]
@@ -130,5 +130,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-25T18:41:44.922Z"
+  "updatedAt": "2026-10-26T02:03:04.148Z"
 }
