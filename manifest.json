@@ -1,76 +1,118 @@
 {
-  "releaseId": "v20261023",
-  "generatedAt": "2026-10-23T03:03:23.897Z",
+  "releaseId": "v20261030",
+  "generatedAt": "2026-10-29T21:12:44.013Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261023/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261030/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
-      "file": "data/main.enc",
       "hash": "a3f42e36494eb2d0fd5e1cffde5459b19eb21cc9536d169c2d5dfabb7298da82",
       "count": 4,
-      "bytes": 300
+      "file": "data/main.enc",
+      "bytes": 300,
+      "plainBytes": 208,
+      "fileZ": "data/main.z.enc",
+      "bytesZ": 184,
+      "src": "jsd"
     },
     "sub": {
+      "hash": "1711ad6a640d5c0445a6779a2683e9222fdc0862c4783b4ef9e3a6c45161927c",
+      "count": 113,
       "file": "data/sub.enc",
-      "hash": "5ad4a143dd4ea4d30584db7fc5a220e2ae609d4ea28361a3935d252786ca798f",
-      "count": 107,
-      "bytes": 20696
+      "bytes": 21864,
+      "plainBytes": 16382,
+      "fileZ": "data/sub.z.enc",
+      "bytesZ": 3448,
+      "src": "jsd"
     },
     "item": {
+      "hash": "eb1b960d00a8663c395a70db376ffef149dd973ac8460ed8c2689775c44bb038",
+      "count": 1315,
       "file": "data/item.enc",
-      "hash": "60b8a1d3ff213af22e86990c84fc20f203c9b1397c789ef3dde23a47f10028ad",
-      "count": 1248,
-      "bytes": 296688
+      "bytes": 313432,
+      "plainBytes": 235057,
+      "fileZ": "data/item.z.enc",
+      "bytesZ": 89920,
+      "src": "jsd"
     },
     "recipe": {
+      "hash": "9d541bd869fe946c2a7dc4ddb692ecde0e0f2cff269d7e65e4cecbdea6c91452",
+      "count": 782,
       "file": "data/recipe.enc",
-      "hash": "3f85bce4d227d85af1c06205456ee24cde8a48ec89c81c5eeb496d11fb990818",
-      "count": 732,
-      "bytes": 88456
+      "bytes": 94600,
+      "plainBytes": 70934,
+      "fileZ": "data/recipe.z.enc",
+      "bytesZ": 10072,
+      "src": "jsd"
     },
     "daily": {
+      "hash": "fa03cc9e0da1e5cce0b1db30b38d9963f5c26d58f45492c9475bc21d020a6484",
+      "count": 530,
       "file": "data/daily.enc",
-      "hash": "a3bf03cd0b2ba776ebfc9fa74a99d85077ecc90c0f8b8bcb23d254206621fe63",
-      "count": 495,
-      "bytes": 223740
+      "bytes": 239736,
+      "plainBytes": 179784,
+      "fileZ": "data/daily.z.enc",
+      "bytesZ": 25936,
+      "src": "jsd"
     },
     "activity": {
-      "file": "data/activity.enc",
       "hash": "7f0c76320670026f5ad3ace69b5f98e1170ad4240ca0afc94480c6e68004852a",
       "count": 18,
-      "bytes": 48808
+      "file": "data/activity.enc",
+      "bytes": 48808,
+      "plainBytes": 36589,
+      "fileZ": "data/activity.z.enc",
+      "bytesZ": 8152,
+      "src": "jsd"
     },
     "announcement": {
-      "file": "data/announcement.enc",
       "hash": "7e5235477117c33ddcdce3b485ba1a6231fc0076fb17b84f11ba0ddda3992920",
       "count": 11,
-      "bytes": 932
+      "file": "data/announcement.enc",
+      "bytes": 932,
+      "plainBytes": 683,
+      "fileZ": "data/announcement.z.enc",
+      "bytesZ": 636,
+      "src": "jsd"
     },
     "rewards": {
+      "hash": "7218e5e32bf16eafcddb17503c3d81aa34c27070fb00363c5e703d019d567896",
+      "count": 61,
       "file": "data/rewards.enc",
-      "hash": "e441547a541feab92bd286343292b9a426861e96745d8688b83451539c9d4443",
-      "count": 60,
-      "bytes": 3692
+      "bytes": 3764,
+      "plainBytes": 2806,
+      "fileZ": "data/rewards.z.enc",
+      "bytesZ": 1064,
+      "src": "jsd"
     },
     "cardSeasons": {
-      "file": "data/cardSeasons.enc",
       "hash": "080742414d6a5436cb7e75dfb529bc6c261de4f48bfc0e634e742a2321bdb501",
       "count": 9,
+      "file": "data/cardSeasons.enc",
       "bytes": 102780,
+      "plainBytes": 77069,
+      "fileZ": "data/cardSeasons.z.enc",
+      "bytesZ": 35508,
       "src": "jsd"
     },
     "goose": {
+      "hash": "b92ec0cf1c4ad2b22c6d95e483e23ec4d9749227d26785cb85550a44cd2605b7",
+      "count": 18,
       "file": "data/goose.enc",
-      "hash": "879665b6e8ab69040e5e74257e5df162538afadfe0db65cf67f2a701619117f3",
-      "count": 17,
-      "bytes": 22632
+      "bytes": 23788,
+      "plainBytes": 17825,
+      "fileZ": "data/goose.z.enc",
+      "bytesZ": 7652,
+      "src": "jsd"
     },
     "narrative": {
+      "hash": "3555a42365b463dc9c849f773d2213a5e18b0d42635fcf13ede2b4ffce101bbe",
+      "count": 17,
       "file": "data/narrative.enc",
-      "hash": "dd2175ac403ee0c04ac86aaf5299475611fee47cb6a26b6e5b7449e89b073bec",
-      "count": 16,
-      "bytes": 445936,
+      "bytes": 584512,
+      "plainBytes": 438366,
+      "fileZ": "data/narrative.z.enc",
+      "bytesZ": 177364,
       "src": "jsd"
     }
   },
@@ -89,9 +131,15 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 14553682,
+  "assetTotalBytes": 15126285,
   "bundle": {
     "file": "data/all.enc",
-    "bytes": 706053
+    "bytes": 747333,
+    "src": "jsd"
+  },
+  "bundleZ": {
+    "file": "data/all.z.enc",
+    "bytes": 147173,
+    "src": "jsd"
   }
 }
