@@ -126,9 +126,27 @@
     ],
     "weekStart": "2026-10-26"
   },
+  "thanks": {
+    "title": "感谢以下朋友的赞助支持！",
+    "list": [
+      {
+        "name": "露琪娅",
+        "amount": 6
+      },
+      {
+        "name": "沈书意",
+        "amount": 3
+      },
+      {
+        "name": "Crescent",
+        "amount": 3
+      }
+    ],
+    "foot": ""
+  },
   "cosLine": {
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-29T21:22:41.289Z"
+  "updatedAt": "2026-10-31T15:45:18.583Z"
 }
