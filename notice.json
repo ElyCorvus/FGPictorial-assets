@@ -140,6 +140,62 @@
       {
         "name": "Crescent",
         "amount": 3
+      },
+      {
+        "name": "菇菇",
+        "amount": 1
+      },
+      {
+        "name": "ELY",
+        "amount": 1
+      },
+      {
+        "name": "RALPH",
+        "amount": 1
+      },
+      {
+        "name": "红茶",
+        "amount": 1
+      },
+      {
+        "name": "阿菌",
+        "amount": 1
+      },
+      {
+        "name": "小鸦",
+        "amount": 0
+      },
+      {
+        "name": "鱼儿",
+        "amount": 0
+      },
+      {
+        "name": "盐盐",
+        "amount": 0
+      },
+      {
+        "name": "shurgin",
+        "amount": 0
+      },
+      {
+        "name": "adonis_gugugu",
+        "amount": 0
+      },
+      {
+        "name": "瓜子",
+        "amount": 0
+      },
+      {
+        "name": "冬瓜",
+        "amount": 0
+      },
+      {
+        "name": "白菜",
+        "amount": 0
+      },
+      {
+        "name": "三文鱼",
+        "amount": 0
       }
     ],
     "foot": ""
@@ -148,5 +204,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-31T15:45:18.583Z"
+  "updatedAt": "2026-10-31T15:48:12.362Z"
 }
