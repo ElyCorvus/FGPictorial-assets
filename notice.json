@@ -127,10 +127,22 @@
     "weekStart": "2026-10-26"
   },
   "thanks": {
-    "title": "感谢以下朋友的赞助支持！",
+    "title": "感谢下列朋友的赞助支持！",
     "list": [
       {
+        "name": "煎鱼🐳",
+        "amount": 18.88
+      },
+      {
+        "name": "温雅",
+        "amount": 6.66
+      },
+      {
         "name": "露琪娅",
+        "amount": 6
+      },
+      {
+        "name": "了了",
         "amount": 6
       },
       {
@@ -148,5 +160,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-31T16:33:24.283Z"
+  "updatedAt": "2026-10-31T19:48:43.514Z"
 }
