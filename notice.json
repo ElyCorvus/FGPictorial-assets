@@ -1,5 +1,5 @@
 {
-  "notice": "卡牌赛季「星夜月明」最后一周，大家轻松游戏，理性充值。\n烟花卡牌周期间，部分活动奖励包含烟花卡包，与平时不尽相同，请以游戏运行时为准。\n新餐厅巴西系列图鉴、订单、剧情等内容已更新，可按需参考。\n\n*作者非全职开发运营，近期非常忙碌，数据与功能更新可能有delay，感谢诸君海涵。^-^❤",
+  "notice": "卡牌赛季「采购时光」开始了~\n\n第一周轻装上阵，坑人活动不参加，有空时就囤囤菜，慢就是快 ^-^\n新餐厅巴西系列图鉴、订单、剧情等内容已更新，可按需参考。",
   "changelog": [
     {
       "date": "2026-10-20",
@@ -70,64 +70,65 @@
     }
   ],
   "schedule": {
-    "title": "10.26~11.1 本周活动表",
     "rows": [
       {
         "label": "周一",
         "acts": [
-          "FloatRace",
+          "CloudMelodies",
           "Clover"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "FireRank",
+          "UpgradeRace",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "FireRank",
-          "DrawerRush",
-          "Gems"
+          "UpgradeRace",
+          "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "birdToFly",
-          "SurpriseBox",
-          "Gems"
+          "GymSprint",
+          "BigdayRush",
+          "SurpriseBox"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "Burger"
+          "bumperCar",
+          "BigdayRush",
+          "Gems"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "Burger",
-          "DoubleCardPack"
+          "bumperCar",
+          "BigdayRush",
+          "DoubleCardPack",
+          "Gems"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "Burger",
+          "bumperCar",
           "ClimbTower",
-          "DoubleCardPack"
+          "Gems"
         ]
       }
     ],
-    "weekStart": "2026-10-26"
+    "weekStart": "2026-11-02"
   },
   "thanks": {
-    "title": "感谢下列朋友的赞助支持！",
     "list": [
       {
         "name": "煎鱼🐳",
@@ -152,6 +153,10 @@
       {
         "name": "Crescent",
         "amount": 3
+      },
+      {
+        "name": "羁绊",
+        "amount": 3
       }
     ],
     "foot": ""
@@ -160,5 +165,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-10-31T19:48:43.514Z"
+  "updatedAt": "2026-11-02T02:00:45.002Z"
 }
