@@ -1,8 +1,8 @@
 {
-  "releaseId": "v20261030",
-  "generatedAt": "2026-10-29T21:12:44.013Z",
+  "releaseId": "v20261102",
+  "generatedAt": "2026-11-02T03:33:32.196Z",
   "keyId": "bd9d63884be6",
-  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261030/",
+  "dataBase": "https://7261-ravurn-d4ggetdxs5f31cd04-1475014024.tcb.qcloud.la/v20261102/",
   "assetBase": "https://cdn.jsdelivr.net/gh/ElyCorvus/FGPictorial-assets@main",
   "tables": {
     "main": {
@@ -16,23 +16,23 @@
       "src": "jsd"
     },
     "sub": {
-      "hash": "1711ad6a640d5c0445a6779a2683e9222fdc0862c4783b4ef9e3a6c45161927c",
+      "hash": "9665cd9d83f50f7065a0e89c2e1e75678c3273030bec9d1e5fe4640d3f560636",
       "count": 113,
       "file": "data/sub.enc",
       "bytes": 21864,
       "plainBytes": 16382,
       "fileZ": "data/sub.z.enc",
-      "bytesZ": 3448,
+      "bytesZ": 3444,
       "src": "jsd"
     },
     "item": {
-      "hash": "eb1b960d00a8663c395a70db376ffef149dd973ac8460ed8c2689775c44bb038",
+      "hash": "b8c9554b5d6a98cd2db66d14e473663acb9a840cc6d192bba49efc1fb1b02c3d",
       "count": 1315,
       "file": "data/item.enc",
-      "bytes": 313432,
-      "plainBytes": 235057,
+      "bytes": 313516,
+      "plainBytes": 235119,
       "fileZ": "data/item.z.enc",
-      "bytesZ": 89920,
+      "bytesZ": 89940,
       "src": "jsd"
     },
     "recipe": {
@@ -85,24 +85,34 @@
       "bytesZ": 1064,
       "src": "jsd"
     },
+    "generator": {
+      "hash": "5acd9602db4a6d72b8537e666053c194c3aa61799cf3a401e7d375f266b2fcec",
+      "count": 127,
+      "file": "data/generator.enc",
+      "bytes": 10260,
+      "plainBytes": 7679,
+      "fileZ": "data/generator.z.enc",
+      "bytesZ": 1440,
+      "src": "jsd"
+    },
     "cardSeasons": {
-      "hash": "080742414d6a5436cb7e75dfb529bc6c261de4f48bfc0e634e742a2321bdb501",
-      "count": 9,
+      "hash": "c44b8c91a3233b05a29ceed3ea8185b6f6de3e822d07016c74cc4660decae463",
+      "count": 10,
       "file": "data/cardSeasons.enc",
-      "bytes": 102780,
-      "plainBytes": 77069,
+      "bytes": 112816,
+      "plainBytes": 84595,
       "fileZ": "data/cardSeasons.z.enc",
-      "bytesZ": 35508,
+      "bytesZ": 38408,
       "src": "jsd"
     },
     "goose": {
-      "hash": "b92ec0cf1c4ad2b22c6d95e483e23ec4d9749227d26785cb85550a44cd2605b7",
+      "hash": "9bce81213aacc3f7b625d7ed566471c082f52ff352f8ccd9072800df4b0a2206",
       "count": 18,
       "file": "data/goose.enc",
-      "bytes": 23788,
-      "plainBytes": 17825,
+      "bytes": 22396,
+      "plainBytes": 16781,
       "fileZ": "data/goose.z.enc",
-      "bytesZ": 7652,
+      "bytesZ": 7152,
       "src": "jsd"
     },
     "narrative": {
@@ -131,15 +141,15 @@
     "banner/e357d8cbb1ff.png",
     "banner/f1ddf98255ba.png"
   ],
-  "assetTotalBytes": 15126285,
+  "assetTotalBytes": 15244412,
   "bundle": {
     "file": "data/all.enc",
-    "bytes": 747333,
+    "bytes": 756300,
     "src": "jsd"
   },
   "bundleZ": {
     "file": "data/all.z.enc",
-    "bytes": 147173,
+    "bytes": 148144,
     "src": "jsd"
   }
 }
