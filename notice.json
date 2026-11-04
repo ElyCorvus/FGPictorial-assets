@@ -138,6 +138,14 @@
   "thanks": {
     "list": [
       {
+        "name": "[1002304]红茶（正在观看《女装骑士》版）",
+        "amount": 100
+      },
+      {
+        "name": "Meh",
+        "amount": 50
+      },
+      {
         "name": "煎鱼🐳",
         "amount": 18.88
       },
@@ -154,6 +162,14 @@
         "amount": 6
       },
       {
+        "name": "H.",
+        "amount": 5
+      },
+      {
+        "name": "iᴷᴬᴹᴵ",
+        "amount": 5
+      },
+      {
         "name": "沈书意",
         "amount": 3
       },
@@ -164,13 +180,16 @@
       {
         "name": "羁绊",
         "amount": 3
+      },
+      {
+        "name": "[1001205]菇菇",
+        "amount": 0
       }
-    ],
-    "foot": ""
+    ]
   },
   "cosLine": {
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-02T14:08:21.673Z"
+  "updatedAt": "2026-11-04T04:58:22.108Z"
 }
