@@ -146,8 +146,16 @@
         "amount": 50
       },
       {
+        "name": "桜子さん",
+        "amount": 20
+      },
+      {
         "name": "煎鱼🐳",
         "amount": 18.88
+      },
+      {
+        "name": "🌈勤勤🌥️",
+        "amount": 16.66
       },
       {
         "name": "温雅",
@@ -191,5 +199,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-04T04:58:22.108Z"
+  "updatedAt": "2026-11-04T17:50:24.186Z"
 }
