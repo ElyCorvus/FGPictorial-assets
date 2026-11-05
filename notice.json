@@ -178,6 +178,10 @@
         "amount": 5
       },
       {
+        "name": "藏锋守拙",
+        "amount": 5
+      },
+      {
         "name": "沈书意",
         "amount": 3
       },
@@ -199,5 +203,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-04T17:50:24.186Z"
+  "updatedAt": "2026-11-05T18:23:50.171Z"
 }
