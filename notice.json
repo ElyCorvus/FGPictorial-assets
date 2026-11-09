@@ -1,5 +1,5 @@
 {
-  "notice": "个别用户反馈在营业日详情/囤菜清单页面浏览和清点菜品时出现白屏，这是微信在 特定机型 + iOS 26 组合下可能出现的bug，可以通过升级手机系统解决问题，或者向食谱集客服提供您在页面白屏/显示恢复时的详细操作流程与所见内容，以便开发者进行针对性修复。",
+  "notice": "卡牌赛季「采购时光」第二周进行中，本周活动推荐度 汉堡>外卖员≈木桶>可乐 ，烟花卡牌请酌情肝，毕竟全勤也未必能集齐（。）\n\n游戏圈兑换码：\n海滨度假\n（至2026-11-10 23:59:59）\n\n本期限定卡牌图片过两周和下次餐厅更新一起上线。开发者消失中……",
   "changelog": [
     {
       "date": "2026-11-02",
@@ -81,59 +81,54 @@
       {
         "label": "周一",
         "acts": [
-          "CloudMelodies",
+          "FloatRace",
           "Clover"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "UpgradeRace",
+          "WeightRace",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "UpgradeRace",
+          "WeightRace",
           "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "GymSprint",
-          "BigdayRush",
+          "birdToFly",
           "SurpriseBox"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "bumperCar",
-          "BigdayRush",
+          "Burger",
           "Gems"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "bumperCar",
-          "BigdayRush",
-          "DoubleCardPack",
-          "Gems"
+          "Burger",
+          "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "bumperCar",
-          "ClimbTower",
-          "Gems"
+          "Burger",
+          "ClimbTower"
         ]
       }
     ],
-    "weekStart": "2026-11-02"
+    "weekStart": "2026-11-09"
   },
   "thanks": {
     "list": [
@@ -211,5 +206,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-08T06:27:51.670Z"
+  "updatedAt": "2026-11-09T02:01:57.238Z"
 }
