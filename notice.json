@@ -109,8 +109,7 @@
       {
         "label": "周五",
         "acts": [
-          "Burger",
-          "Gems"
+          "Burger"
         ]
       },
       {
@@ -206,5 +205,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-09T02:01:57.238Z"
+  "updatedAt": "2026-11-09T02:02:33.272Z"
 }
