@@ -1,5 +1,5 @@
 {
-  "notice": "卡牌赛季「采购时光」第二周进行中，本周活动推荐度 汉堡>外卖员≈木桶>可乐 ，烟花卡牌请酌情肝，毕竟全勤也未必能集齐（。）\n\n本期限定卡牌图片过两周和下次餐厅更新一起上线。开发者消失中……",
+  "notice": "卡牌赛季「采购时光」第三周，本周活动推荐度 寻骨>芝士≫象背>拳击手。\n\n开发者仍然消失中……",
   "changelog": [
     {
       "date": "2026-11-02",
@@ -81,53 +81,58 @@
       {
         "label": "周一",
         "acts": [
-          "FloatRace",
-          "Clover"
+          "Collection",
+          "Clover",
+          "Gems"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "WeightRace",
-          "DoubleCardPack"
+          "UpgradeRace",
+          "DoubleCardPack",
+          "Gems"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "WeightRace",
+          "UpgradeRace",
           "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "birdToFly",
+          "GymSprint",
+          "BigdayRush",
           "SurpriseBox"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "Burger"
+          "bumperCar",
+          "BigdayRush"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "Burger",
+          "bumperCar",
+          "BigdayRush",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "Burger",
+          "bumperCar",
           "ClimbTower"
         ]
       }
     ],
-    "weekStart": "2026-11-09"
+    "weekStart": "2026-11-16"
   },
   "thanks": {
     "list": [
@@ -192,6 +197,14 @@
         "amount": 5
       },
       {
+        "name": "AAA全国金加隆代购",
+        "amount": 5
+      },
+      {
+        "name": "半颗云丸",
+        "amount": 5
+      },
+      {
         "name": "沈书意",
         "amount": 3
       },
@@ -213,5 +226,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-09T17:40:17.156Z"
+  "updatedAt": "2026-11-16T02:01:34.208Z"
 }
