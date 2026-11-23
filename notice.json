@@ -100,7 +100,8 @@
       {
         "label": "周三",
         "acts": [
-          "DrawerRush"
+          "DrawerRush",
+          "Gems"
         ]
       },
       {
@@ -114,8 +115,7 @@
       {
         "label": "周五",
         "acts": [
-          "Burger",
-          "Gems"
+          "Burger"
         ]
       },
       {
@@ -244,5 +244,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-23T02:32:01.478Z"
+  "updatedAt": "2026-11-23T02:37:45.545Z"
 }
