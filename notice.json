@@ -1,6 +1,12 @@
 {
-  "notice": "卡牌赛季「采购时光」第三周，本周活动推荐度 寻骨>芝士≫象背>拳击手。\n新餐厅系列内容已更新，这期太潮了很无敌。\n\n开发者持续消失中……",
+  "notice": "卡牌赛季「采购时光」最后一周，\n不准备集齐第二套的朋友们可以佛系开囤~\n\n官方活动时间表尚未更新，下面的是我猜的，等官方发了再补上周二三的活动，反正不是烹调就是外卖员。\n食谱集公告发布有延时，大家如果看到旧数据请稍安勿躁。\n本周日（赛季末）照例有双倍卡包，记得理性游戏，不急眼、不受骗。\n\n开发者仍然消失中……",
   "changelog": [
+    {
+      "date": "2026-11-19",
+      "items": [
+        "物品详情页新增：展示发射器产物比例；可查询当前物品作为原料出现的营业日。"
+      ]
+    },
     {
       "date": "2026-11-02",
       "items": [
@@ -81,63 +87,63 @@
       {
         "label": "周一",
         "acts": [
-          "Collection",
-          "Clover",
-          "Gems"
+          "FloatRace",
+          "Clover"
         ]
       },
       {
         "label": "周二",
         "acts": [
-          "UpgradeRace",
-          "DoubleCardPack",
-          "Gems"
+          "DoubleCardPack"
         ]
       },
       {
         "label": "周三",
         "acts": [
-          "UpgradeRace",
           "DrawerRush"
         ]
       },
       {
         "label": "周四",
         "acts": [
-          "GymSprint",
-          "BigdayRush",
-          "SurpriseBox"
+          "birdToFly",
+          "SurpriseBox",
+          "Gems"
         ]
       },
       {
         "label": "周五",
         "acts": [
-          "bumperCar",
-          "BigdayRush"
+          "Burger",
+          "Gems"
         ]
       },
       {
         "label": "周六",
         "acts": [
-          "bumperCar",
-          "BigdayRush",
+          "Burger",
           "DoubleCardPack"
         ]
       },
       {
         "label": "周日",
         "acts": [
-          "bumperCar",
+          "Burger",
+          "DoubleCardPack",
           "ClimbTower"
         ]
       }
     ],
-    "weekStart": "2026-11-16"
+    "weekStart": "2026-11-23"
   },
   "thanks": {
     "list": [
       {
         "name": "[1002304]红茶（正在观看《女装骑士》版）",
+        "amount": 100
+      },
+      {
+        "name": "ANNA🌹",
         "amount": 100
       },
       {
@@ -217,16 +223,20 @@
         "amount": 5
       },
       {
+        "name": "羊羊羊大王",
+        "amount": 5
+      },
+      {
+        "name": "qing",
+        "amount": 5
+      },
+      {
         "name": "沈书意",
         "amount": 3
       },
       {
         "name": "羁绊",
         "amount": 3
-      },
-      {
-        "name": "[1001205]菇菇",
-        "amount": 0
       }
     ]
   },
@@ -234,5 +244,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-19T02:20:46.743Z"
+  "updatedAt": "2026-11-23T02:32:01.478Z"
 }
