@@ -149,6 +149,10 @@
         "amount": 100
       },
       {
+        "name": "如初",
+        "amount": 100
+      },
+      {
         "name": "Meh",
         "amount": 50
       },
@@ -233,6 +237,14 @@
         "amount": 5
       },
       {
+        "name": "Sharon",
+        "amount": 5
+      },
+      {
+        "name": "土了个大豆(ノ^o^)ノ",
+        "amount": 5
+      },
+      {
         "name": "沈书意",
         "amount": 3
       },
@@ -246,5 +258,5 @@
     "mode": "auto",
     "probeTimeoutMs": 3000
   },
-  "updatedAt": "2026-11-23T10:57:07.403Z"
+  "updatedAt": "2026-11-26T06:26:25.554Z"
 }
